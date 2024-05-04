@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Originull Wasteland</title>
+    <title>Posts on Originull Wasteland</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content on Originull Wasteland</description>
+    <description>Recent content in Posts on Originull Wasteland</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 04 May 2024 11:54:14 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/posts/first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
-      <description></description>
+      <title>Initiation</title>
+      <link>http://localhost:1313/posts/initiation/</link>
+      <pubDate>Sat, 04 May 2024 11:54:14 -0400</pubDate>
+      <guid>http://localhost:1313/posts/initiation/</guid>
+      <description>This is the beginning of a beautifully horrible waste of time.</description>
     </item>
   </channel>
 </rss>
