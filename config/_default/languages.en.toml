@@ -14,7 +14,7 @@ title = "Originull Wasteland"
 
 [params.author]
   name = "Rob Fisher"
-  # image = "img/author.jpg"
+  image = "img/author.jpg"
   headline = "Constantly Screaming Into the Void"
   bio = "Avid Reader of the Delightfully Depressing"
   links = [
